@@ -1,9 +1,10 @@
 ## **Dog Breed Classification using TensorFlow**
----
 
-| <img src="../images/Japanese%20Spitz%20dog%20breed%20description%20and%20characteristics.jpg" width=350/> | 
-|:--:| 
-|Source:[Pinterest](https://www.pinterest.com.mx/pin/551409548117924718/)|
+<p align="center">
+  <img src="https://github.com/ainiyaaziza/Dog-Breed-Classification/blob/a1ad5cf0c97f2d5fa2f06104130a9570db6179b8/Test/Japanese%20Spitz%20dog%20breed%20description%20and%20characteristics.jpg" width="350" title="hover text">
+  </p>
+
+Source: [Pinterest](https://www.pinterest.com.mx/pin/551409548117924718/)
 
 ### **Use Case**
 
